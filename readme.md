@@ -1,4 +1,4 @@
-#📈 Stock Price Prediction using Linear Regression
+📈 Stock Price Prediction using Linear Regression
 
 📝 Project Overview
 This project focuses on predicting future stock closing prices based on historical market data. Using a synthetic dataset that mimics real-world stock movements (Random Walk), the model utilizes features such as Opening Price, High, Low, and Trading Volume to forecast the next day's Closing Price.
@@ -33,11 +33,10 @@ To run this project locally:
 
 Bash
 
-# Clone the repository
-git clone https://github.com/YourUsername/Stock-Price-Prediction.git
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
 🧪 Results
 
 The model achieves a high R-squared score, indicating a strong correlation between the selected features and the future closing price. The low MAE suggests that the predicted prices are, on average, very close to the actual values.
+
